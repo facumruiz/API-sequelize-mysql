@@ -1,7 +1,8 @@
 # API-sequelize-mysql
 | Methods | Urls | 	Actions |
 | :---:         |     :---:      |          :---: |
-| GET   | git status     | git status    |
-| POST     | git diff       | git diff      |
-| PUT    | git diff       | git diff      |
-| DELETE     | git diff       | git diff      |
+| GET   | /products     | List of products    |
+| GET     | /products/{id}       | View a product      |
+| POST    | /pruducts       | Create new product      |
+| PUT     | /products/{id}       | Update a product      |
+| DELETE     | /products/{id}       | Delete a product      |
