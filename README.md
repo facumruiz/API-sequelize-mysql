@@ -19,5 +19,5 @@ Aquí está el diseño EndPoint de la API RESTful que crearemos:
 | DELETE     | /products/{id}       | Delete a product      |
 
 # POSTMAN
-Crear
-<img src="https://mfikri.com/assets/images/files/en/sequelize/create-product.png" width="350" title="hover text">
+
+<img src="https://mfikri.com/assets/images/files/en/sequelize/create-product.png" width="950" title="hover text">
