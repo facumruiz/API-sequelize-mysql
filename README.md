@@ -17,5 +17,3 @@ Aquí está el diseño EndPoint de la API RESTful que crearemos:
 | POST    | /pruducts       | Create new product      |
 | PUT     | /products/{id}       | Update a product      |
 | DELETE     | /products/{id}       | Delete a product      |
-
-#Crear
