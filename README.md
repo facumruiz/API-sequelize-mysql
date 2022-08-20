@@ -21,3 +21,7 @@ Aquí está el diseño EndPoint de la API RESTful que crearemos:
 # POSTMAN
 
 <img src="https://mfikri.com/assets/images/files/en/sequelize/create-product.png" width="950" title="hover text">
+<img src="https://mfikri.com/assets/images/files/en/sequelize/read-all-products.png" width="950" title="hover text">
+<img src="https://mfikri.com/assets/images/files/en/sequelize/read-single-product.png" width="950" title="hover text">
+<img src="https://mfikri.com/assets/images/files/en/sequelize/create-product.png" width="950" title="hover text">
+<img src="https://mfikri.com/assets/images/files/en/sequelize/create-product.png" width="950" title="hover text">
