@@ -1,4 +1,4 @@
-# API-sequelize-mysql
+# API Sequelize MYSQL
 
 Los verbos HTTP comúnmente utilizados son GET, POST, PUT y DELETE.
 
