@@ -1,5 +1,5 @@
 # API-sequelize-mysql
-## Diseño
+
 Los verbos HTTP comúnmente utilizados son GET, POST, PUT y DELETE.
 
 GET para obtener datos del servidor o mejor conocido como READ, POST para CREAR nuevos datos, PUT para ACTUALIZAR datos y DELETE para eliminar datos.
