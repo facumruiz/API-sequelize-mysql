@@ -1,5 +1,7 @@
 # API-sequelize-mysql
-| Alineado a la izquierda | Alineado en el centro | Alineado a la derecha |
+| Methods | Urls | 	Actions |
 | :---:         |     :---:      |          :---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| GET   | git status     | git status    |
+| POST     | git diff       | git diff      |
+| PUT    | git diff       | git diff      |
+| DELETE     | git diff       | git diff      |
